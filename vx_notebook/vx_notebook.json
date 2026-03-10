@@ -1,109 +1,14 @@
 {
     "attachment_folder": "vx_attachments",
     "config_mgr": "vx.vnotex",
-    "created_time": "2026-03-05T14:21:44Z",
+    "created_time": "2026-03-10T03:51:34Z",
     "description": "",
     "extra_configs": {
     },
     "history": [
-        {
-            "last_accessed_time": "2026-03-09T14:46:00Z",
-            "line_number": 0,
-            "path": "Grok Imagine ImageToVideo Prompt Engineer.md"
-        },
-        {
-            "last_accessed_time": "2026-03-09T14:46:00Z",
-            "line_number": 0,
-            "path": "Grok Imagine EastAsian Petite Prompt Engineer.md"
-        },
-        {
-            "last_accessed_time": "2026-03-09T14:46:00Z",
-            "line_number": 0,
-            "path": "Self-Updating Skill Engineer.md"
-        },
-        {
-            "last_accessed_time": "2026-03-09T14:46:00Z",
-            "line_number": 1,
-            "path": "Skill Framework Master.md"
-        },
-        {
-            "last_accessed_time": "2026-03-09T14:46:00Z",
-            "line_number": 0,
-            "path": "Skill Orchestrator.md"
-        },
-        {
-            "last_accessed_time": "2026-03-09T14:46:00Z",
-            "line_number": 0,
-            "path": "Grok Imagine Catalog Inset Layout Engin.md"
-        },
-        {
-            "last_accessed_time": "2026-03-09T14:46:00Z",
-            "line_number": 0,
-            "path": "Grok Interactive Novel Setting Engineer.md"
-        },
-        {
-            "last_accessed_time": "2026-03-09T14:46:00Z",
-            "line_number": 0,
-            "path": "Grok Interactive Novel Narrator & State Engineer.md"
-        },
-        {
-            "last_accessed_time": "2026-03-09T14:46:00Z",
-            "line_number": 0,
-            "path": "Grok Task Engineer.md"
-        },
-        {
-            "last_accessed_time": "2026-03-09T14:46:00Z",
-            "line_number": 0,
-            "path": "Dona Preferenc Anchor.md"
-        },
-        {
-            "last_accessed_time": "2026-03-09T14:46:00Z",
-            "line_number": 0,
-            "path": "User Preference Memory Anchor.md"
-        },
-        {
-            "last_accessed_time": "2026-03-09T14:46:00Z",
-            "line_number": 2,
-            "path": "Skill Category Manager.md"
-        },
-        {
-            "last_accessed_time": "2026-03-09T14:46:00Z",
-            "line_number": 0,
-            "path": "Web Research & Fact Checker.md"
-        },
-        {
-            "last_accessed_time": "2026-03-09T14:46:00Z",
-            "line_number": 0,
-            "path": "Sexual Preference Profiler.md"
-        },
-        {
-            "last_accessed_time": "2026-03-09T14:46:00Z",
-            "line_number": 0,
-            "path": "Yang Zhai Feng Shui Analyzer.md"
-        },
-        {
-            "last_accessed_time": "2026-03-09T14:46:00Z",
-            "line_number": 0,
-            "path": "Skill Auditor.md"
-        },
-        {
-            "last_accessed_time": "2026-03-09T14:46:00Z",
-            "line_number": 1,
-            "path": "Fuzzy Task Decomposer & Router.md"
-        },
-        {
-            "last_accessed_time": "2026-03-09T14:46:00Z",
-            "line_number": 0,
-            "path": "Current Skills Lister.md"
-        },
-        {
-            "last_accessed_time": "2026-03-09T14:46:00Z",
-            "line_number": 0,
-            "path": "Core Dependency Anchors.md"
-        }
     ],
     "image_folder": "vx_images",
-    "name": "myVnote",
+    "name": "Grok-Agent-Skills",
     "tag_graph": "",
     "version": 3,
     "version_controller": "dummy.vnotex"
