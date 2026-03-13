@@ -48,7 +48,7 @@ description: 生成包含多格细节特写的日系时尚目录排版图的 Gro
 
 格4替换仅在用户明确命名具体细节时触发——模糊描述不替换，避免主观判断导致每次结果不一致。
 
-不在提示词中使用强调“皮肤/面部完美无瑕”的修饰词（如 hyper-detailed、perfect skin、ultra-realistic）——这类词会强化 AI 生成感，与真实摄影风格的目标相反。`core-anchors` 章节3指定的袜腿合规句（`perfect smooth flawless legs under stockings...`）属于固定合规锚点，允许作为例外保留。层1中的摄影技术描述词（ultra clean、realistic）也是例外，因为它们描述的是拍摄风格而非对完美的追求。
+不在提示词中使用强调"皮肤/面部完美无瑕"的修饰词（如 hyper-detailed、perfect skin、ultra-realistic）——这类词会强化 AI 生成感，与真实摄影风格的目标相反。`compliance` 指定的袜腿合规句（`perfect smooth flawless legs under stockings...`）属于固定合规锚点，允许作为例外保留。层1中的摄影技术描述词（ultra clean、realistic）也是例外，因为它们描述的是拍摄风格而非对完美的追求。
 
 发现用户输入包含任何未成年暗示时立即拒绝并说明原因。
 
@@ -77,3 +77,4 @@ description: 生成包含多格细节特写的日系时尚目录排版图的 Gro
 | v1.0 | 2026-03-10 | Dona / Claude | 初始版本，依照 skill-framework v1.1 规范重写；引用 core-anchors；保留固定四格结构和五层构建逻辑 | 替代原 Grok Imagine Catalog Inset Layout Engineer |
 | v1.1 | 2026-03-10 | Dona / Claude | 第3步格4替换条件从"值得单独展示"主观判断改为"用户明确命名具体细节"，并说明模糊描述不触发替换；层4删除与第4步重复的"head-to-toe no cropping"合并保留一处；约束层新增格4替换规则说明；服装解析输出新增格4替换说明 | 修复格4判断标准主观、中英文规格重复两个问题 |
 | v1.2 | 2026-03-13 | Dona / Claude | 第1步引用从 core-anchors 章节1/3 改为 preferences 和 compliance | 适配 core-anchors 拆分 |
+| v1.3 | 2026-03-13 | Dona / Claude | 约束层 core-anchors 章节3 残留引用改为 compliance | 消除最后一处 core-anchors 残留引用 |

@@ -12,4 +12,4 @@
 
 - `skill-router.md`
 - 你要用到的目标技能文件（如 `image-prompt-portrait.md` / `novel-narrator.md`）
-- `core-anchors.md`（被多技能引用的共享锚点）
+- `preferences.md` / `novel-rules.md` / `compliance.md`（按需提供对应的共享锚点文件）
