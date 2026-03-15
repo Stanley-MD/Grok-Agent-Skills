@@ -1,6 +1,7 @@
 ---
 name: image-prompt-video
 description: 生成 Grok Imagine 图生视频的提示词。当用户想基于静态图片生成动态视频、描述动作演进或情节变化时触发。只描述动态变化，不重复静态图片特征。如果用户需要单张人物写真提示词，使用 image-prompt-portrait；如果用户需要目录排版图提示词，使用 image-prompt-catalog。
+reads: preferences-sexual, compliance
 ---
 
 # image-prompt-video

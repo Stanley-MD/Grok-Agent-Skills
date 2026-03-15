@@ -1,6 +1,7 @@
 ---
 name: novel-setup
 description: 把用户的互动小说需求转化为结构完整、可长期运行的设定文档。当用户说「帮我设计一个互动小说」「生成互动故事框架」「我想做一个XXX类型的文字冒险」时触发。不执行叙述——叙述由 `novel-narrator` 负责。
+reads: novel-rules
 ---
 
 # novel-setup

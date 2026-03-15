@@ -1,6 +1,7 @@
 ---
 name: image-prompt-catalog
 description: 生成包含多格细节特写的日系时尚目录排版图的 Grok Imagine 提示词。当用户想生成左侧四格inset细节特写加右侧全身主图的目录排版风格图片时触发。如果用户需要单张人物写真提示词，使用 image-prompt-portrait；如果用户需要图生视频提示词，使用 image-prompt-video。
+reads: preferences-sexual, compliance
 ---
 
 # image-prompt-catalog

@@ -1,6 +1,7 @@
 ---
 name: preferences-builder
-description: 通过多轮自然对话采集用户的偏好信息，直接生成可替换对应域偏好文件的结构化输出。当用户说「帮我建立偏好档案」「采集我的偏好」「分析我的性偏好」「整理我的kink」「帮我做个性癖画像」，或在非角色扮演、非小说创作的真实对话中主动描述自己的偏好时触发。不生成色情内容——如果用户想要色情创作，应触发其他技能。不管理临时偏好覆盖——用户想在不修改偏好文件的情况下临时调整偏好时，应触发 preference-override。
+description: 通过多轮自然对话采集用户的偏好信息，直接生成可替换对应域偏好文件的结构化输出。当用户说「帮我建立偏好档案」「采集我的偏好」「分析我的性偏好」「整理我的kink」「帮我做个性癖画像」，或在非角色扮演、非小说创作的真实对话中主动描述自己的偏好时触发。不生成色情内容——如果用户想要色情创作，应触发其他技能。不管理临时偏好覆盖——用户想在不修改偏好文件的情况下临时调整偏好时，应触发 preferences-override。
+reads: preferences-sexual
 ---
 
 # preferences-builder
@@ -97,7 +98,7 @@ Sexual 域输出 `preferences-sexual.md`：
 ```markdown
 ---
 name: preferences-sexual
-description: 用户性偏好锚点，供 image-prompt-portrait、image-prompt-catalog、image-prompt-video、preference-override 等技能读取。
+description: 用户性偏好锚点，供 image-prompt-portrait、image-prompt-catalog、image-prompt-video、preferences-override 等技能读取。
 ---
 
 # preferences-sexual

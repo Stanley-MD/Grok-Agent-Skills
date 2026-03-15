@@ -1,6 +1,7 @@
 ---
 name: image-prompt-portrait
 description: 生成单张东亚人物写真的 Grok Imagine 提示词。当用户想生成写真风格、强调人物表情和服装细节的单张图片时触发。如果用户需要包含多格细节特写的目录排版图，使用 image-prompt-catalog；如果用户需要图生视频提示词，使用 image-prompt-video。
+reads: preferences-sexual, compliance
 ---
 
 # image-prompt-portrait
